@@ -1,0 +1,19 @@
+{
+  "name": "jeffy",
+  "description": "Just enough framework for you.",
+  "version": "0.1.0",
+  "main": "src/jeffy.js",
+  "moduleType": "globals",
+  "license": "MIT",
+  "keywords": [
+    "jquery-plugin"
+  ],
+  "authors": [
+    "Ben Denham (https://github.com/ben-denham)"
+  ],
+  "ignore": [
+  ],
+  "dependencies": {
+    "jquery": ">=1.7.0"
+  }
+}
